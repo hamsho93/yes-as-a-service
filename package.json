@@ -1,0 +1,31 @@
+{
+  "name": "yes-as-a-service",
+  "version": "1.0.0",
+  "description": "A lightweight API that returns random affirmations in multiple languages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamsho93/yes-as-a-service.git"
+  },
+  "keywords": [
+    "api",
+    "yes",
+    "affirmations",
+    "multilingual",
+    "express"
+  ],
+  "author": "hamsho93",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hamsho93/yes-as-a-service/issues"
+  },
+  "homepage": "https://github.com/hamsho93/yes-as-a-service#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.0.0"
+  }
+}
