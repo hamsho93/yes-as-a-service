@@ -2,7 +2,9 @@
 
 A simple API that returns random affirmations in multiple languages. The enthusiastic counterpart to [No-as-a-Service](https://github.com/hotheadhacker/no-as-a-service).
 
-<img src="images/image.png" alt="Yes Man" width="300">
+<p align="center">
+  <img src="images/image.png" alt="Yes Man" width="400">
+</p>
 
 ## API Usage
 
